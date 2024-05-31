@@ -58,5 +58,3 @@ code*: HA
 num*: 60
 date: 20240531
 
-## *Author Name*
-Mior
