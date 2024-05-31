@@ -57,4 +57,8 @@ GET /flightware/ Read Flight Information
 code*: HA
 num*: 60
 date: 20240531
+```
+
+## *Author Name*
+Mior
 
