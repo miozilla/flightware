@@ -59,5 +59,4 @@ num*: 60
 date: 20240531
 
 ## *Author Name*
-<!--Remove the below lines and add yours -->
 Mior
