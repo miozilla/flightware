@@ -28,14 +28,14 @@ class FlightScraper:
         # Check if date parameter is provided
         date_string = None
         if date:
-            # If provided, parse the date parameter
+            print("# If provided, parse the date parameter")
             try:
-                date_string = datetime.strptime(date, "%Y%m%d").strftime("%Y-%m-%d")
+                date_string = datetime.strptime(date, "%Y%m%d").strftime("%Y%m%d")
             except ValueError:
                 # If the provided date parameter is not in the correct format, return None
                 return None, None, None
         else:
-            # If not provided, default to current date
+            print("# If not provided, default to current date")
             date_string = datetime.now().strftime("%Y%m%d")
         print(f"Init Arguments: {code} {num} {date_string}")
         return code, num, date_string

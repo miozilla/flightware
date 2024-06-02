@@ -28,14 +28,14 @@ To get started with FlightwareAPI, follow these steps:
     install python 3.8 or above
     #optional: pip3 install uvicorn scrapy fastapi pymongo
     pip install -r requirements.txt
-    install/configure mongodb server # mongodb://localhost:27017/
+    install/configure mongodb server               # mongodb://localhost:27017/
     ```
 
 3. Run the middleware platform:
     ```powershell
-    # use venv for testing - tested on windows host
-    ~> cd .\flightware\     # project dir
-    ~\flightware> .\venv\Scripts\Activate.ps1
+    # tested on windows host
+    ~> cd .\flightware\                            # project dir
+    ~\flightware> .\venv\Scripts\Activate.ps1      # use venv for testing
     (venv) PS C:\test\20240529a\proj001a\flightware>
     # start API server
     uvicorn main:app --reload
@@ -57,8 +57,16 @@ GET /flightware/ Read Flight Information
 code*: HA
 num*: 60
 date: 20240531
+
+- Note*: Query process take approximately **10 seconds**...
+
 ```
 
-## *Author Name*
+![Result_Screenshot1](./others.result1.png)
+
+![Result_Screenshot2](./others.result2.png)
+
+
+## *Author*
 Mior
 
