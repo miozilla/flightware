@@ -62,9 +62,9 @@ date: 20240531
 
 ```
 
-![Result_Screenshot1](./others.result1.png)
+![Result_Screenshot1](./others/result1.png)
 
-![Result_Screenshot2](./others.result2.png)
+![Result_Screenshot2](./others/result2.png)
 
 
 ## *Author*
