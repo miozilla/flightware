@@ -57,10 +57,8 @@ GET /flightware/ Read Flight Information
 code*: HA
 num*: 60
 date: 20240531
-
-- Note*: Query process take approximately **10 seconds**...
-
 ```
+- **Note***: Query process take approximately **10 seconds**...
 
 ![Result_Screenshot1](./others/result1.png)
 
