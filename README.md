@@ -64,6 +64,10 @@ date: 20240531
 
 ![Result_Screenshot2](./others/result2.png)
 
+## Architecture
+
+![Architecture_Design2](./others/flightware_app_design_diagram_v2.0.png)
+
 
 ## *Author*
 Mior
