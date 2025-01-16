@@ -68,6 +68,25 @@ date: 20240531
 
 ![Architecture_Design2](./others/flightware_app_design_diagram_v2.0.png)
 
+## Visualization
+
+![Visualization01](./others/looker001.png)
+
+![Visualization02](./others/looker002.png)
+
+![Visualization03](./others/looker003.png)
+
+![Visualization04](./others/looker004.png)
+
+![Visualization05](./others/looker005.png)
+
+![Visualization06](./others/looker006.png)
+
+![Visualization07](./others/looker007.png)
+
+![Visualization08](./others/looker008.png)
+
+
 
 ## *Author*
 Mior
