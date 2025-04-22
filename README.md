@@ -1,4 +1,4 @@
-# FlightwareAPI
+# FlightwareAPI 🛫
 
 FlightwareAPI is a middleware platform designed to interact with the Flightstats website. It implements a Web Scraping mechanism to extract flight information.
 
